@@ -18,7 +18,7 @@ A Redis-inspired key-value server implemented in Rust.
 
 ## Technologies
 
-Python · C/C++ · Rust · SQL · Linux · Git · TCP/IP · REST APIs
+Python · C/C++ · Rust · JavaScript/TypeScript · SQL · Linux · Git · TCP/IP · REST APIs
 
 <!--
 **pneumatick/pneumatick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
