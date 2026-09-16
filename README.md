@@ -1,4 +1,24 @@
-## Hi there 👋
+# Jose Harvey
+
+Software developer focused on backend and systems programming.
+
+I primarily work with Rust, Python, C, and SQL, with particular
+interests in networking, backend systems, and developer tooling.
+
+## Featured Projects
+
+### [yt-playlist-archiver]
+Python CLI application for archiving and searching YouTube playlists.
+
+### [redis-like]
+A Redis-inspired key-value server implemented in Rust.
+
+### [rust-dns-server]
+DNS server implementation written in Rust.
+
+## Technologies
+
+Rust · Python · C · SQL · Linux · Git · TCP/IP · REST APIs
 
 <!--
 **pneumatick/pneumatick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
