@@ -7,18 +7,18 @@ interests in networking, backend systems, and developer tooling.
 
 ## Featured Projects
 
+### [rag-chatbot]
+An RAG chatbot for conversationally interfacing with your personal documents.
+
 ### [yt-playlist-archiver]
 Python CLI application for archiving and searching YouTube playlists.
 
 ### [redis-like]
 A Redis-inspired key-value server implemented in Rust.
 
-### [rust-dns-server]
-DNS server implementation written in Rust.
-
 ## Technologies
 
-Rust · Python · C · SQL · Linux · Git · TCP/IP · REST APIs
+Python · C/C++ · Rust · SQL · Linux · Git · TCP/IP · REST APIs
 
 <!--
 **pneumatick/pneumatick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
