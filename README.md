@@ -7,7 +7,7 @@ interests in networking, backend systems, and developer tooling.
 
 ## Featured Projects
 
-### [rag-chatbot]
+### [marginalia]
 An RAG chatbot for conversationally interfacing with your personal documents.
 
 ### [yt-playlist-archiver]
