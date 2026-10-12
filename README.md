@@ -13,7 +13,7 @@ An RAG chatbot for conversationally interfacing with your personal documents.
 ### [yt-playlist-archiver]
 Python CLI application for archiving and searching YouTube playlists.
 
-### [redis-like]
+### [redis-like] (in development...)
 A Redis-inspired key-value server implemented in Rust.
 
 ## Technologies
